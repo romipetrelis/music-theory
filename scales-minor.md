@@ -12,11 +12,11 @@ This may be the easiest way.
 >
 > **flatten the 3rd, 6th, and 7th degrees**
 
-- | I | II | III | IV | V | VI | VII |
-- | - | - | - | - | - | - | - |
-A Major | A | B | C# | D | E | F# | G# |
-Formula | - | - | b  | - | - | b  | b |
-Am Natural (aka Aeolian) | A | B | C |D | E | F | G |
+| - | I | II | III | IV | V | VI | VII |
+| - | - | - | - | - | - | - | - |
+| A Major | A | B | C# | D | E | F# | G# |
+| Formula | - | - | b  | - | - | b  | b |
+| Am Natural (aka Aeolian) | A | B | C |D | E | F | G |
 
 ![A minor](scales-minor-a.png "A minor")
 
@@ -32,9 +32,9 @@ Am Natural (aka Aeolian) | A | B | C |D | E | F | G |
 >
 > where `W`=whole step and `H`=half step
 
-R | W | H | W | W | H | W |
-- | - | - | - | - | - | - |
-A | B | C | D | E | F | G |
+| R | W | H | W | W | H | W |
+| - | - | - | - | - | - | - |
+| A | B | C | D | E | F | G |
 
 ## Minor Pentatonic Scale
 Contains 5 notes

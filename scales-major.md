@@ -9,20 +9,20 @@ Heptatonic, i.e. contains 7 notes
 >
 > where W=whole step and H=half step
 
-R | W | W | H | W | W | W |
-- | - | - | - | - | - | - |
-C | D | E | F | G | A | B |
-G | A | B | C | D | E | F#|
-D | E | F#| G | A | B | C#|
-A | B | C#| D | E | F#| G#|
-E | F#| G#| A | B | C#| D#|
-B | C#| D#| E | F#| G#| A#|
-F | G | A | Bb| C | D | E |
-Bb| C | D | Eb| F | G | A |
-Eb| F | G | Ab| Bb| C | D |
-Ab| Bb| C | Db| Eb| F | G |
-Db|	Eb| F | Gb| Ab| Bb| C |
-Gb| Ab| Bb| Cb| Db| Eb| F |
+| R | W | W | H | W | W | W |
+| - | - | - | - | - | - | - |
+| C | D | E | F | G | A | B |
+| G | A | B | C | D | E | F#|
+| D | E | F#| G | A | B | C#|
+| A | B | C#| D | E | F#| G#|
+| E | F#| G#| A | B | C#| D#|
+| B | C#| D#| E | F#| G#| A#|
+| F | G | A | Bb| C | D | E |
+| Bb| C | D | Eb| F | G | A |
+| Eb| F | G | Ab| Bb| C | D |
+| Ab| Bb| C | Db| Eb| F | G |
+| Db| Eb| F | Gb| Ab| Bb| C |
+| Gb| Ab| Bb| Cb| Db| Eb| F |
 
 ## Major Pentatonic Scale
 
