@@ -55,6 +55,18 @@ Hexatonic, i.e. contains 6 notes
 
 > Pick a minor pentatonic scale and **add a flattened 5th**
 
+Said another way:
+
+> * Pick a minor scale
+> * Remove the 2nd and 6th degrees
+> * Add a b5
+
+Or another way:
+> * Pick a major scale
+> * Flatten the 3rd and 7th
+> * Remove the 2nd and 6th
+> * Add a b5
+
 So, the A Minor Blues scale is:
 
 `A C D Eb E G`

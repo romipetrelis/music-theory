@@ -43,6 +43,12 @@ Hexatonic, i.e. contains 6 notes
 
 > Pick a major pentatonic scale and **add a flattened 3rd**
 
+Said another way:
+
+> * Pick a major scale
+> * Remove the 4th and 7th
+> * Add a b3
+
 So, the C Major Blues scale is:
 
 `C D Eb E G A`
