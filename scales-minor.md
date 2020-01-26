@@ -72,3 +72,11 @@ So, the A Minor Blues scale is:
 `A C D Eb E G`
 
 ![A minor Blues Scale](scales-minor-blues-a.png "A minor Blues")
+
+## Harmonic Minor
+
+Raise the 7th step by a half on the way up, and flatten on the way down
+
+## Melodic Minor
+
+Raise the 6th and 7th steps of the natural minor by a half step

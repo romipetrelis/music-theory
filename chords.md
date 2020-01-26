@@ -25,7 +25,7 @@ A **dominant seventh chord** is created by taking a _major_ triad and adding a _
 A **major seventh chord** is created by taking a _major_ triad and adding a _major_ seventh (11 semitones from the root). Ex: a major seventh chord on C is `C-E-G-B`, which is commonly written as `Cmaj7`
 
 ## Minor Seventh Chord (Cm7)
-A **minor seventh chord** is created by taking a _minor_ traid and adding a _minor_ seventh above the root. Ex: a minor sevnth chord on C is `C-Eb-G-Bb`, which is commonly 
+A **minor seventh chord** is created by taking a _minor_ triad and adding a _minor_ seventh above the root. Ex: a minor sevnth chord on C is `C-Eb-G-Bb`, which is commonly 
 written as `Cmin7`.
 
 ## Diminished Seventh Chord (C°)
